@@ -1,6 +1,6 @@
 # Walla Enhancements 📰✨
 
-A collection of user scripts to improve the browsing experience on [Walla! News](https://walla.co.il), maintained by Idan Travitsky.
+A collection of user scripts to improve the browsing experience on [Walla News](https://walla.co.il), maintained by Idan Travitsky.
 
 ## 📦 Current scripts
 
